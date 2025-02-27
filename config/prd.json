@@ -1,0 +1,18 @@
+{
+  "baseUrl": "https://api.solace.cloud/api/v2",
+  "token":  "eyJhbGciOiJSUzI1NiIsImtpZCI6Im1hYXNfcHJvZF8yMDIwMDMyNiIsInR5cCI6IkpXVCJ9.eyJvcmciOiJzb2xhY2V1c2VycyIsIm9yZ1R5cGUiOiJFTlRFUlBSSVNFIiwic3ViIjoieWFlamRpYWZxMjYiLCJwZXJtaXNzaW9ucyI6IkFBQUFBSUF2QUFBQWZ6Z0E0QUVBQUFBQUFBQUFBQUFBQUlDeHpvY2hJQWpnTC8vL2c1WGZCZDREV01NRDQ0ZTVNNE1aRVA1L0JnRElJZz09IiwiYXBpVG9rZW5JZCI6ImloanE3dmt1NXZqIiwiaXNzIjoiU29sYWNlIENvcnBvcmF0aW9uIiwiaWF0IjoxNzM4NzUwMjY4fQ.B44WH_E_xkrj4P4gNOHuY3cy7p-STv1fGkVHmA_yMvmidED2_M0kvI0fZ5qc8UqZp-NU9PXI60fPpKhFF8oNHX2LecaFwIax6qtx75x3Buzn7qpwmE2zycnvfgsWyX1QaXr-jyBSrMjUkxQzbgTLPue1h9VytfU05_tPrpUnL_5BgrWZ2LvsRmON1XG5wu2X_RLEL8_8lZZX5XRxf8MJX3EZfDERce3eTaaTAnwQ6oLMks-XUTxg0uDnFdfVC8Ti2bKpnJY6yWMOk7E1R4i38yw8OyS5hyH9ViLKKYkCm_XXJ_b2tDZ80AtEQKYdkhJQ0avm5lHyNNKuJBL_v6c9Sw",
+  "environment": "prd",
+  "environmentName": "Prod",
+  "memName": "Enexis-MEM",
+  "domainName": "EXS-Chauffeurs",
+  "applications": [
+    {
+      "name": "MENDIX",
+      "version": "0.1.1"
+    },
+    {
+      "name": "SAP26",
+      "version": "0.1.0"
+    }
+  ]
+}
